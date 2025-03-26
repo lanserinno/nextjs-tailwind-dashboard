@@ -1,3 +1,3 @@
-# nextjs-nestedroute-tailwindv4
+## Getting Started
 
-next.js 15 + tailwind v4 UI implementation + website responsiveness practice
+next.js 15 + tailwind v4 ui integration + ui responsiveness practice
